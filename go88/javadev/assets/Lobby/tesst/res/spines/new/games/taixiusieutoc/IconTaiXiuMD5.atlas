@@ -1,0 +1,125 @@
+
+IconTaiXiuMD5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2a
+  rotate: false
+  xy: 1, 1
+  size: 290, 436
+  orig: 290, 436
+  offset: 0, 0
+  index: -1
+sang1
+  rotate: false
+  xy: 293, 1
+  size: 279, 265
+  orig: 279, 265
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 494, 382
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+xi ngau 3
+  rotate: false
+  xy: 856, 431
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+xi ngau 2
+  rotate: false
+  xy: 293, 410
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 777, 491
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 925, 431
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 494, 348
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+xi ngau 1
+  rotate: false
+  xy: 559, 268
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+TÀI
+  rotate: false
+  xy: 777, 431
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+XỈU
+  rotate: false
+  xy: 692, 431
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+tsss
+  rotate: false
+  xy: 293, 268
+  size: 264, 78
+  orig: 264, 78
+  offset: 0, 0
+  index: -1
+TÀI_blur
+  rotate: false
+  xy: 601, 431
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+XỈU_blur
+  rotate: false
+  xy: 395, 410
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+sss
+  rotate: false
+  xy: 1, 439
+  size: 269, 64
+  orig: 269, 64
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 601, 382
+  size: 199, 47
+  orig: 199, 47
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: false
+  xy: 293, 348
+  size: 199, 60
+  orig: 199, 60
+  offset: 0, 0
+  index: -1

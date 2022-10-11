@@ -1,0 +1,26 @@
+PA_x150.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plane7
+  rotate: false
+  xy: 2, 9
+  size: 139, 102
+  orig: 139, 102
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 143, 2
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+laser2
+  rotate: false
+  xy: 143, 47
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1

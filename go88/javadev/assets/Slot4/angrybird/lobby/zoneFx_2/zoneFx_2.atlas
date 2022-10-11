@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1047,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AB2_Matilda
+  rotate: true
+  xy: 848, 119
+  size: 182, 197
+  orig: 182, 197
+  offset: 0, 0
+  index: -1
+AB2_STELLA
+  rotate: true
+  xy: 500, 82
+  size: 219, 168
+  orig: 219, 168
+  offset: 0, 0
+  index: -1
+AB2_Silver
+  rotate: true
+  xy: 670, 91
+  size: 210, 176
+  orig: 210, 176
+  offset: 0, 0
+  index: -1
+Group 10
+  rotate: false
+  xy: 500, 2
+  size: 342, 78
+  orig: 342, 78
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: true
+  xy: 2, 7
+  size: 294, 496
+  orig: 294, 496
+  offset: 0, 0
+  index: -1
+girls
+  rotate: false
+  xy: 844, 13
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 848, 65
+  size: 187, 52
+  orig: 187, 52
+  offset: 0, 0
+  index: -1

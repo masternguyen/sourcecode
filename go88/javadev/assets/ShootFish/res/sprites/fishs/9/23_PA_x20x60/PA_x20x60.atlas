@@ -1,0 +1,75 @@
+PA_x20x60.png
+size: 231,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 33
+  size: 113, 124
+  orig: 113, 124
+  offset: 0, 0
+  index: -1
+canhquat
+  rotate: false
+  xy: 128, 31
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 74, 15
+  size: 14, 84
+  orig: 14, 84
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 206, 62
+  size: 17, 84
+  orig: 17, 84
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 185, 62
+  size: 19, 84
+  orig: 19, 84
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 225, 72
+  size: 4, 74
+  orig: 4, 74
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 183, 13
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+vongcanh
+  rotate: false
+  xy: 128, 87
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+xoay1
+  rotate: false
+  xy: 34, 3
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+xoay2
+  rotate: true
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+angrybirds_symbol_1_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEST_JACKPOT
+  rotate: false
+  xy: 786, 254
+  size: 157, 39
+  orig: 157, 39
+  offset: 0, 0
+  index: -1
+CHEST_LOWER
+  rotate: false
+  xy: 300, 235
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+CHEST_UPPER
+  rotate: false
+  xy: 543, 235
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+EFFECT_DOT
+  rotate: false
+  xy: 2, 212
+  size: 296, 273
+  orig: 296, 273
+  offset: 0, 0
+  index: -1
+EFFECT_RAY
+  rotate: false
+  xy: 786, 164
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_01
+  rotate: true
+  xy: 580, 52
+  size: 181, 188
+  orig: 181, 188
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_02
+  rotate: true
+  xy: 205, 21
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_03
+  rotate: false
+  xy: 389, 51
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_04
+  rotate: false
+  xy: 786, 295
+  size: 183, 190
+  orig: 183, 190
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_05
+  rotate: false
+  xy: 2, 2
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1

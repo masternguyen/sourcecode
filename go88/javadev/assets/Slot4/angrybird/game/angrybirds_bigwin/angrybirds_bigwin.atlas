@@ -1,0 +1,138 @@
+
+angrybirds_bigwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIGWIN_1
+  rotate: false
+  xy: 831, 37
+  size: 148, 155
+  orig: 148, 155
+  offset: 0, 0
+  index: -1
+BIGWIN_2
+  rotate: false
+  xy: 831, 194
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+BIGWIN_3
+  rotate: false
+  xy: 831, 357
+  size: 164, 187
+  orig: 164, 187
+  offset: 0, 0
+  index: -1
+BIGWIN_4
+  rotate: false
+  xy: 831, 546
+  size: 176, 187
+  orig: 176, 187
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 0
+  rotate: true
+  xy: 589, 510
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 1
+  rotate: true
+  xy: 589, 2
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+slingshot
+  rotate: false
+  xy: 2, 53
+  size: 585, 963
+  orig: 585, 963
+  offset: 0, 0
+  index: -1
+slingshot 2
+  rotate: true
+  xy: 831, 735
+  size: 281, 184
+  orig: 281, 184
+  offset: 0, 0
+  index: -1
+
+angrybirds_bigwin2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG
+  rotate: false
+  xy: 750, 407
+  size: 219, 131
+  orig: 219, 131
+  offset: 0, 0
+  index: -1
+BIGWIN_0
+  rotate: true
+  xy: 750, 272
+  size: 133, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+BIGWIN_glass
+  rotate: false
+  xy: 510, 272
+  size: 238, 266
+  orig: 238, 266
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 3
+  rotate: false
+  xy: 2, 782
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 4
+  rotate: false
+  xy: 2, 540
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 5
+  rotate: false
+  xy: 510, 782
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 6
+  rotate: false
+  xy: 2, 298
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 7
+  rotate: false
+  xy: 510, 540
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+Speedline /Elements - Speedline 8
+  rotate: false
+  xy: 2, 56
+  size: 506, 240
+  orig: 506, 240
+  offset: 0, 0
+  index: -1
+WIN
+  rotate: true
+  xy: 510, 2
+  size: 268, 127
+  orig: 268, 127
+  offset: 0, 0
+  index: -1

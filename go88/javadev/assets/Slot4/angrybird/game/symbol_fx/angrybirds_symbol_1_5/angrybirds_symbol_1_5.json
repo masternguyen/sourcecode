@@ -1,0 +1,203 @@
+{
+"skeleton": { "hash": "NKtjaks+2LtYBTpeBgsSXID8Q00", "spine": "3.7.94", "width": 241.01, "height": 250.01, "images": "./unpacked/", "audio": "/Users/honguyenngoc/Desktop/fx/symbol_fx/angrybirds_symbol_1_5" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 91.67, "rotation": 87.73, "x": 4.02, "y": -69.83 },
+	{ "name": "bone2", "parent": "root", "length": 94.33, "rotation": 96.19, "x": 25.83, "y": -64.02 }
+],
+"slots": [
+	{ "name": "PIG-3", "bone": "bone2", "attachment": "PIG-3" },
+	{ "name": "PIG-2", "bone": "root", "attachment": "PIG-2" },
+	{ "name": "PIG-1", "bone": "bone", "attachment": "PIG-1" },
+	{ "name": "bubble_pop_frame_01", "bone": "root", "attachment": "bubble_pop_frame_01" }
+],
+"skins": {
+	"default": {
+		"PIG-1": {
+			"PIG-1": { "x": 69.62, "y": 6.79, "rotation": -87.73, "width": 241, "height": 250 }
+		},
+		"PIG-2": {
+			"PIG-2": {
+				"type": "mesh",
+				"uvs": [ 0.75566, 0.77027, 0.48793, 0.86914, 0.21719, 0.79644, 0.17195, 0.50291, 0.29261, 0.30534, 0.47285, 0.2559, 0.68627, 0.2908, 0.82504, 0.50291, 0.5, 0.5 ],
+				"triangles": [ 8, 5, 6, 4, 5, 8, 3, 4, 8, 8, 6, 7, 0, 8, 7, 2, 3, 8, 1, 2, 8, 0, 1, 8 ],
+				"vertices": [ 61.61, -67.57, -2.91, -92.29, -68.16, -74.11, -79.06, -0.73, -49.98, 48.67, -6.54, 61.02, 44.89, 52.3, 78.33, -0.73, 0, 0 ],
+				"hull": 8,
+				"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+				"width": 241,
+				"height": 250
+			}
+		},
+		"PIG-3": {
+			"PIG-3": { "x": 66.43, "y": 18.77, "rotation": -96.19, "width": 241, "height": 250 }
+		},
+		"bubble_pop_frame_01": {
+			"bubble_pop_frame_01": { "x": 0.5, "width": 181, "height": 188 },
+			"bubble_pop_frame_02": { "x": 0.5, "width": 189, "height": 182 },
+			"bubble_pop_frame_03": { "x": 0.5, "width": 189, "height": 182 },
+			"bubble_pop_frame_04": { "x": 0.5, "width": 183, "height": 190 },
+			"bubble_pop_frame_05": { "x": 0.5, "width": 201, "height": 208 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"PIG-1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"PIG-2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"bubble_pop_frame_01": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -5.53 },
+					{ "time": 0.3667, "angle": 0 },
+					{ "time": 0.5333, "angle": 10.36 },
+					{ "time": 0.7, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 1.08, "y": 1 },
+					{ "time": 0.3667, "x": 1, "y": 1 },
+					{ "time": 0.5333, "x": 1.166, "y": 1 },
+					{ "time": 0.7, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -4.76, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.5333, "x": -5.09, "y": -8.76 },
+					{ "time": 0.7, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"symbolFx": {
+		"slots": {
+			"PIG-1": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 0.9, "color": "ffffff00" }
+				]
+			},
+			"PIG-2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 0.9333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.1333, "color": "ffffffff" },
+					{ "time": 1.2333, "color": "ffffff00" }
+				]
+			},
+			"PIG-3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1333, "color": "ffffff00" },
+					{ "time": 1.2333, "color": "ffffffff" }
+				]
+			},
+			"bubble_pop_frame_01": {
+				"attachment": [
+					{ "time": 0.8, "name": "bubble_pop_frame_02" },
+					{ "time": 0.9333, "name": "bubble_pop_frame_03" },
+					{ "time": 1, "name": "bubble_pop_frame_04" },
+					{ "time": 1.0667, "name": "bubble_pop_frame_05" },
+					{ "time": 1.2, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": 33.44 },
+					{ "time": 0.3, "x": 0, "y": -11.63 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.5667, "x": 0, "y": 33.44 },
+					{ "time": 0.9, "x": 0, "y": 56.71 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.042, "y": 1 },
+					{ "time": 0.1667, "x": 0.949, "y": 1 },
+					{ "time": 0.2333, "x": 1.051, "y": 1 },
+					{ "time": 0.3, "x": 0.854, "y": 1 },
+					{ "time": 0.4, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.042, "y": 1 },
+					{ "time": 0.5667, "x": 0.949, "y": 1 },
+					{ "time": 0.6333, "x": 0.975, "y": 1 },
+					{ "time": 0.7667, "x": 0.913, "y": 1 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.5, "angle": -5.53 },
+					{ "time": 1.7, "angle": 0 },
+					{ "time": 1.8667, "angle": 10.36 },
+					{ "time": 2.0333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.2667, "x": -7.27, "y": 0 },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 1.5, "x": 1.08, "y": 1 },
+					{ "time": 1.7, "x": 1, "y": 1 },
+					{ "time": 1.8667, "x": 1.166, "y": 1 },
+					{ "time": 2.0333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.5, "x": -4.76, "y": 0 },
+					{ "time": 1.7, "x": 0, "y": 0 },
+					{ "time": 1.8667, "x": -5.09, "y": -8.76 },
+					{ "time": 2.0333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"PIG-2": {
+					"PIG-2": [
+						{
+							"time": 0.8333,
+							"offset": 1,
+							"vertices": [ 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391, 0, 59.61391 ]
+						},
+						{
+							"time": 0.9333,
+							"offset": 1,
+							"vertices": [ 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693, 0, 51.61693 ]
+						},
+						{
+							"time": 1.0667,
+							"offset": 1,
+							"vertices": [ 5.99416, 0, 9.17559, 0, 6.8363, 0, -2.60881, 0, -8.96605, 0, -10.55677, 0, -9.43391, 0, -2.60881, 0, -2.70238 ]
+						},
+						{
+							"time": 1.1333,
+							"offset": 1,
+							"vertices": [ 1.67102, 0, 2.80613, 0, 1.97149, 0, -1.39845, 0, -3.66665, 0, -4.23421, 0, -3.83358, 0, -1.39845, 0, -1.43183 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

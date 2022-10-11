@@ -1,0 +1,41 @@
+
+gun1.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NongSungLv5
+  rotate: false
+  xy: 123, 213
+  size: 43, 75
+  orig: 43, 76
+  offset: 0, 1
+  index: -1
+ThanSungLv5
+  rotate: false
+  xy: 123, 114
+  size: 103, 97
+  orig: 104, 97
+  offset: 0, 0
+  index: -1
+eftim1
+  rotate: false
+  xy: 1, 112
+  size: 120, 107
+  orig: 125, 111
+  offset: 5, 2
+  index: -1
+eftim2
+  rotate: false
+  xy: 1, 1
+  size: 120, 109
+  orig: 125, 111
+  offset: 5, 2
+  index: -1
+eftim3
+  rotate: false
+  xy: 123, 1
+  size: 116, 111
+  orig: 122, 111
+  offset: 6, 0
+  index: -1

@@ -1,0 +1,194 @@
+
+angrybirds_jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEST_LOWER
+  rotate: false
+  xy: 323, 322
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+CHEST_UPPER
+  rotate: false
+  xy: 323, 426
+  size: 138, 127
+  orig: 138, 127
+  offset: 0, 0
+  index: -1
+EFFECT_DOT
+  rotate: false
+  xy: 466, 372
+  size: 307, 270
+  orig: 307, 270
+  offset: 0, 0
+  index: -1
+EFFECT_RAY
+  rotate: false
+  xy: 466, 644
+  size: 485, 372
+  orig: 485, 372
+  offset: 0, 0
+  index: -1
+trumbet
+  rotate: false
+  xy: 2, 555
+  size: 462, 461
+  orig: 462, 461
+  offset: 0, 0
+  index: -1
+win/1
+  rotate: true
+  xy: 775, 323
+  size: 319, 246
+  orig: 319, 246
+  offset: 0, 0
+  index: -1
+win/2
+  rotate: false
+  xy: 2, 308
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/3
+  rotate: true
+  xy: 460, 51
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/5
+  rotate: true
+  xy: 707, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/6
+  rotate: false
+  xy: 2, 61
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+
+angrybirds_jackpot2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 13/Energy 13
+  rotate: false
+  xy: 570, 420
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 14
+  rotate: false
+  xy: 747, 420
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 15
+  rotate: false
+  xy: 567, 243
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 16
+  rotate: false
+  xy: 744, 243
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 17
+  rotate: false
+  xy: 500, 2
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 2
+  rotate: false
+  xy: 583, 774
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 3
+  rotate: false
+  xy: 760, 774
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 4
+  rotate: false
+  xy: 570, 597
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 5
+  rotate: false
+  xy: 747, 597
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+Energy 13/Energy 6
+  rotate: false
+  xy: 323, 2
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: false
+  xy: 2, 821
+  size: 579, 128
+  orig: 579, 128
+  offset: 0, 0
+  index: -1
+win/10
+  rotate: false
+  xy: 2, 80
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/4
+  rotate: true
+  xy: 323, 179
+  size: 319, 242
+  orig: 319, 242
+  offset: 0, 0
+  index: -1
+win/7
+  rotate: false
+  xy: 2, 574
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/8
+  rotate: false
+  xy: 2, 327
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/9
+  rotate: true
+  xy: 323, 500
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jackpot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_BG
+  rotate: false
+  xy: 453, 115
+  size: 222, 390
+  orig: 222, 390
+  offset: 0, 0
+  index: -1
+18_chim
+  rotate: false
+  xy: 2, 2
+  size: 449, 503
+  orig: 449, 503
+  offset: 0, 0
+  index: -1
+18_ho
+  rotate: true
+  xy: 677, 66
+  size: 147, 186
+  orig: 147, 186
+  offset: 0, 0
+  index: -1
+18_jackpot
+  rotate: false
+  xy: 453, 56
+  size: 215, 57
+  orig: 215, 57
+  offset: 0, 0
+  index: -1
+18_khungup
+  rotate: true
+  xy: 917, 228
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+18_rong
+  rotate: false
+  xy: 677, 322
+  size: 309, 183
+  orig: 309, 183
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: false
+  xy: 677, 215
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+EFFECTNAPTIEN2.png
+size: 466,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Binh1
+  rotate: true
+  xy: 264, 70
+  size: 359, 68
+  orig: 359, 137
+  offset: 0, 10
+  index: -1
+Binh2
+  rotate: false
+  xy: 2, 2
+  size: 359, 66
+  orig: 359, 137
+  offset: 0, 10
+  index: -1
+Binh3
+  rotate: true
+  xy: 265, 431
+  size: 359, 68
+  orig: 359, 137
+  offset: 0, 10
+  index: -1
+BinhA1
+  rotate: true
+  xy: 2, 431
+  size: 359, 87
+  orig: 359, 137
+  offset: 0, 10
+  index: -1
+BinhA1A
+  rotate: true
+  xy: 91, 431
+  size: 359, 85
+  orig: 359, 137
+  offset: 0, 10
+  index: -1
+BinhA2
+  rotate: true
+  xy: 178, 70
+  size: 359, 84
+  orig: 359, 137
+  offset: 0, 9
+  index: -1
+BinhA2A
+  rotate: true
+  xy: 178, 431
+  size: 359, 85
+  orig: 359, 137
+  offset: 0, 9
+  index: -1
+BinhA3
+  rotate: true
+  xy: 2, 70
+  size: 359, 86
+  orig: 359, 137
+  offset: 0, 9
+  index: -1
+BinhA3A
+  rotate: true
+  xy: 90, 70
+  size: 359, 86
+  orig: 359, 137
+  offset: 0, 9
+  index: -1
+GLOW
+  rotate: false
+  xy: 2, 910
+  size: 342, 124
+  orig: 342, 137
+  offset: 0, 13
+  index: -1
+Hat
+  rotate: false
+  xy: 363, 31
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: false
+  xy: 2, 792
+  size: 341, 116
+  orig: 341, 116
+  offset: 0, 0
+  index: -1
+LiveCasino/1
+  rotate: true
+  xy: 381, 246
+  size: 162, 62
+  orig: 162, 62
+  offset: 0, 0
+  index: -1
+LiveCasino/3
+  rotate: false
+  xy: 363, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+NhiemVu/Boder
+  rotate: false
+  xy: 346, 926
+  size: 110, 108
+  orig: 110, 109
+  offset: 0, 1
+  index: -1
+NhiemVu/Boder_2
+  rotate: false
+  xy: 346, 816
+  size: 110, 108
+  orig: 110, 109
+  offset: 0, 1
+  index: -1
+Ong1
+  rotate: true
+  xy: 389, 741
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+OngA1
+  rotate: false
+  xy: 424, 684
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+OngA2
+  rotate: false
+  xy: 424, 627
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+OngA3
+  rotate: false
+  xy: 389, 526
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+RutTien/CocTien1
+  rotate: true
+  xy: 389, 583
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+RutTien/CocTien2
+  rotate: true
+  xy: 389, 633
+  size: 106, 33
+  orig: 106, 38
+  offset: 0, 5
+  index: -1
+RutTien/Text
+  rotate: true
+  xy: 334, 227
+  size: 181, 45
+  orig: 181, 45
+  offset: 0, 0
+  index: -1
+RutTien/ThungTien
+  rotate: true
+  xy: 334, 93
+  size: 132, 90
+  orig: 132, 102
+  offset: 0, 0
+  index: -1
+Text
+  rotate: true
+  xy: 335, 601
+  size: 189, 52
+  orig: 189, 52
+  offset: 0, 0
+  index: -1
+Text2
+  rotate: true
+  xy: 335, 410
+  size: 189, 52
+  orig: 189, 52
+  offset: 0, 0
+  index: -1

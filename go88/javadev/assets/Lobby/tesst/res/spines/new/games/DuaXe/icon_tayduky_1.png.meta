@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "67550ae9-3ca1-4312-bc08-a576672008db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_tayduky_1": {
+      "ver": "1.0.4",
+      "uuid": "cbfec749-e6bf-4aba-84d9-d9874c9869a9",
+      "rawTextureUuid": "67550ae9-3ca1-4312-bc08-a576672008db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1018,
+      "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

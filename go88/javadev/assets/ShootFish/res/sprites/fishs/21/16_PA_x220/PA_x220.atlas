@@ -1,0 +1,47 @@
+PA_x220.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 261, 212
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 70
+  size: 143, 183
+  orig: 143, 183
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 147, 74
+  size: 41, 179
+  orig: 41, 179
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 190, 74
+  size: 36, 179
+  orig: 36, 179
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 228, 74
+  size: 31, 179
+  orig: 31, 179
+  offset: 0, 0
+  index: -1
+texture
+  rotate: true
+  xy: 2, 2
+  size: 66, 108
+  orig: 66, 108
+  offset: 0, 0
+  index: -1

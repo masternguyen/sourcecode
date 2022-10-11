@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1042,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AB2_HAL
+  rotate: true
+  xy: 849, 170
+  size: 185, 150
+  orig: 185, 150
+  offset: 0, 0
+  index: -1
+AB2_Terence
+  rotate: false
+  xy: 468, 84
+  size: 299, 271
+  orig: 299, 271
+  offset: 0, 0
+  index: -1
+AB2_TheBlues
+  rotate: false
+  xy: 849, 19
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+FRIENDS
+  rotate: false
+  xy: 468, 23
+  size: 220, 59
+  orig: 220, 59
+  offset: 0, 0
+  index: -1
+Group 10
+  rotate: true
+  xy: 769, 13
+  size: 342, 78
+  orig: 342, 78
+  offset: 0, 0
+  index: -1
+Group 15
+  rotate: true
+  xy: 2, 2
+  size: 353, 464
+  orig: 353, 464
+  offset: 0, 0
+  index: -1
+more
+  rotate: true
+  xy: 1001, 241
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1

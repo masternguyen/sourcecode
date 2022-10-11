@@ -1,0 +1,62 @@
+
+XocDia.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tlmnbg
+  rotate: false
+  xy: 1, 1
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+Layer 601
+  rotate: false
+  xy: 264, 1
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+Layer 602
+  rotate: false
+  xy: 1, 253
+  size: 168, 206
+  orig: 168, 206
+  offset: 0, 0
+  index: -1
+Layer 603
+  rotate: false
+  xy: 171, 435
+  size: 155, 198
+  orig: 155, 198
+  offset: 0, 0
+  index: -1
+Layer 604
+  rotate: false
+  xy: 264, 218
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+Group 31238
+  rotate: false
+  xy: 256, 635
+  size: 174, 53
+  orig: 174, 53
+  offset: 0, 0
+  index: -1
+Group 31237
+  rotate: false
+  xy: 1, 635
+  size: 253, 64
+  orig: 253, 64
+  offset: 0, 0
+  index: -1
+ENGLISH2
+  rotate: false
+  xy: 171, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+BOTTOMA_BAR.png
+size: 1752,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-e-BOTTOM_BAR
+  rotate: false
+  xy: 2, 184
+  size: 1562, 93
+  orig: 1562, 93
+  offset: 0, 0
+  index: -1
+-e-light copy 5
+  rotate: false
+  xy: 2, 3
+  size: 242, 13
+  orig: 242, 13
+  offset: 0, 0
+  index: -1
+Layer 184
+  rotate: false
+  xy: 1197, 22
+  size: 551, 65
+  orig: 551, 65
+  offset: 0, 0
+  index: -1
+Layer 184 copy
+  rotate: false
+  xy: 2, 18
+  size: 636, 69
+  orig: 636, 69
+  offset: 0, 0
+  index: -1
+Layer 184 copy 2
+  rotate: false
+  xy: 640, 2
+  size: 555, 85
+  orig: 555, 85
+  offset: 0, 0
+  index: -1
+Layer 2132
+  rotate: false
+  xy: 2, 89
+  size: 1562, 93
+  orig: 1562, 93
+  offset: 0, 0
+  index: -1

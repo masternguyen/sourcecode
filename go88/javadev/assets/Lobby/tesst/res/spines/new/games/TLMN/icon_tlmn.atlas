@@ -1,0 +1,55 @@
+
+icon_tlmn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_tlmnsolo
+  rotate: false
+  xy: 1, 1
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+2bitch
+  rotate: false
+  xy: 1, 316
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+2tep
+  rotate: false
+  xy: 189, 215
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+2ro
+  rotate: false
+  xy: 189, 318
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+2co
+  rotate: false
+  xy: 96, 316
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+txt_tlmn
+  rotate: false
+  xy: 189, 420
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: false
+  xy: 1, 215
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1

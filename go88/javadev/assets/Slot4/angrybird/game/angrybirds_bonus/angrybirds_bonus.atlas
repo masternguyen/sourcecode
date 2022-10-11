@@ -1,0 +1,165 @@
+
+angrybirds_bonus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_DOT
+  rotate: true
+  xy: 709, 704
+  size: 307, 270
+  orig: 307, 270
+  offset: 0, 0
+  index: -1
+KING-PIG_0000_1
+  rotate: false
+  xy: 679, 305
+  size: 319, 397
+  orig: 319, 397
+  offset: 0, 0
+  index: -1
+KING-PIG_0002_3
+  rotate: true
+  xy: 216, 2
+  size: 317, 397
+  orig: 317, 397
+  offset: 0, 0
+  index: -1
+PIG
+  rotate: false
+  xy: 2, 9
+  size: 211, 127
+  orig: 211, 127
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 2, 785
+  size: 705, 226
+  orig: 705, 226
+  offset: 0, 0
+  index: -1
+game
+  rotate: true
+  xy: 2, 138
+  size: 645, 212
+  orig: 645, 212
+  offset: 0, 0
+  index: -1
+trumbet
+  rotate: true
+  xy: 216, 321
+  size: 462, 461
+  orig: 462, 461
+  offset: 0, 0
+  index: -1
+win/9
+  rotate: false
+  xy: 615, 58
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+
+angrybirds_bonus2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_RAY
+  rotate: false
+  xy: 2, 633
+  size: 485, 372
+  orig: 485, 372
+  offset: 0, 0
+  index: -1
+KING
+  rotate: true
+  xy: 489, 391
+  size: 614, 248
+  orig: 614, 248
+  offset: 0, 0
+  index: -1
+KING-PIG_0001_2
+  rotate: true
+  xy: 2, 280
+  size: 351, 372
+  orig: 351, 372
+  offset: 0, 0
+  index: -1
+KING-PIG_0003_4
+  rotate: false
+  xy: 376, 10
+  size: 317, 379
+  orig: 317, 379
+  offset: 0, 0
+  index: -1
+bonus_1
+  rotate: true
+  xy: 695, 2
+  size: 140, 231
+  orig: 140, 231
+  offset: 0, 0
+  index: -1
+win/2
+  rotate: false
+  xy: 2, 33
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/3
+  rotate: false
+  xy: 695, 144
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/5
+  rotate: true
+  xy: 739, 686
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+
+angrybirds_bonus3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win/11
+  rotate: false
+  xy: 323, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/4
+  rotate: false
+  xy: 644, 252
+  size: 319, 242
+  orig: 319, 242
+  offset: 0, 0
+  index: -1
+win/6
+  rotate: false
+  xy: 2, 249
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/7
+  rotate: false
+  xy: 2, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/8
+  rotate: false
+  xy: 323, 249
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1

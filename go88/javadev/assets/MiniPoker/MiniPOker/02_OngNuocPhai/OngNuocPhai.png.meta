@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e571728c-7b83-4aa1-a012-24772f30baa4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 166,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "OngNuocPhai": {
+      "ver": "1.0.4",
+      "uuid": "10ea2592-7822-417a-9ccf-0527f0c3913c",
+      "rawTextureUuid": "e571728c-7b83-4aa1-a012-24772f30baa4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 152,
+      "height": 176,
+      "rawWidth": 166,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

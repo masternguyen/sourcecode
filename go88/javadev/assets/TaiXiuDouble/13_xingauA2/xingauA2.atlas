@@ -1,0 +1,111 @@
+
+xingauA2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 223, 108
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 4, 108
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 77, 108
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 150, 108
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 295, 108
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 367, 177
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 367, 105
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 3
+  rotate: true
+  xy: 4, 7
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat duoi 2
+  rotate: true
+  xy: 67, 7
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 1
+  rotate: true
+  xy: 130, 7
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 2
+  rotate: true
+  xy: 193, 7
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 3
+  rotate: true
+  xy: 256, 7
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 4
+  rotate: true
+  xy: 319, 4
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 5
+  rotate: true
+  xy: 382, 4
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+mat tren 6
+  rotate: true
+  xy: 445, 4
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1

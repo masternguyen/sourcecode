@@ -1,0 +1,41 @@
+
+tamquoc.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_BG
+  rotate: true
+  xy: 398, 17
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1
+6_nv
+  rotate: true
+  xy: 2, 10
+  size: 230, 394
+  orig: 230, 394
+  offset: 0, 0
+  index: -1
+6_tamquoc
+  rotate: true
+  xy: 897, 28
+  size: 212, 68
+  orig: 212, 68
+  offset: 0, 0
+  index: -1
+6_tranhba
+  rotate: true
+  xy: 967, 77
+  size: 163, 44
+  orig: 163, 44
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: true
+  xy: 790, 2
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

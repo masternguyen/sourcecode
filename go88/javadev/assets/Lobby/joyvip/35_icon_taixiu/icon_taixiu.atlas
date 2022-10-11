@@ -1,0 +1,48 @@
+
+icon_taixiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_taixiu
+  rotate: false
+  xy: 2, 2
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+dice1
+  rotate: false
+  xy: 210, 109
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+dice2
+  rotate: true
+  xy: 210, 11
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+star222
+  rotate: false
+  xy: 302, 119
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+txt_tai
+  rotate: false
+  xy: 398, 166
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+txt_xiu
+  rotate: false
+  xy: 302, 66
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Anim_Lobby.png
+size: 1009,912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Airplane Fan
+  rotate: false
+  xy: 823, 384
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Fan2
+  rotate: false
+  xy: 873, 285
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+FanNose
+  rotate: false
+  xy: 728, 26
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+FanNose2
+  rotate: false
+  xy: 781, 713
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 933, 484
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+bangso
+  rotate: true
+  xy: 933, 577
+  size: 239, 74
+  orig: 239, 74
+  offset: 0, 0
+  index: -1
+bangsokhung
+  rotate: false
+  xy: 781, 727
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+effect_red1
+  rotate: false
+  xy: 424, 3
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+effect_red2
+  rotate: true
+  xy: 463, 315
+  size: 376, 253
+  orig: 376, 253
+  offset: 0, 0
+  index: -1
+flame
+  rotate: false
+  xy: 2, 693
+  size: 777, 217
+  orig: 777, 217
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: false
+  xy: 2, 307
+  size: 459, 384
+  orig: 459, 384
+  offset: 0, 0
+  index: -1
+flame_smoke1
+  rotate: true
+  xy: 718, 367
+  size: 324, 103
+  orig: 324, 103
+  offset: 0, 0
+  index: -1
+flame_smoke2
+  rotate: true
+  xy: 728, 41
+  size: 324, 102
+  orig: 324, 102
+  offset: 0, 0
+  index: -1
+khungtext
+  rotate: true
+  xy: 823, 483
+  size: 242, 108
+  orig: 242, 108
+  offset: 0, 0
+  index: -1
+kkc
+  rotate: false
+  xy: 2, 2
+  size: 420, 303
+  orig: 420, 303
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 781, 818
+  size: 190, 92
+  orig: 190, 92
+  offset: 0, 0
+  index: -1
+tiahologram
+  rotate: true
+  xy: 832, 137
+  size: 245, 39
+  orig: 245, 39
+  offset: 0, 0
+  index: -1

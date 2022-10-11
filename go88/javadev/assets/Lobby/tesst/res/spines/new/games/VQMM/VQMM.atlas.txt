@@ -1,0 +1,62 @@
+
+VQMM.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_BG
+  rotate: false
+  xy: 2, 66
+  size: 222, 186
+  orig: 222, 186
+  offset: 0, 0
+  index: -1
+16_M1
+  rotate: false
+  xy: 78, 23
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+16_M2
+  rotate: false
+  xy: 138, 23
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+16_Q
+  rotate: false
+  xy: 198, 19
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+16_V
+  rotate: false
+  xy: 246, 36
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+16_chi
+  rotate: true
+  xy: 2, 2
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+16_coin
+  rotate: true
+  xy: 401, 50
+  size: 202, 88
+  orig: 202, 88
+  offset: 0, 0
+  index: -1
+16_vong
+  rotate: false
+  xy: 226, 79
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1

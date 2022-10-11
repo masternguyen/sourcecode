@@ -1,0 +1,90 @@
+
+jackpot_anim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mai
+  rotate: false
+  xy: 1, 1
+  size: 208, 135
+  orig: 210, 135
+  offset: 2, 0
+  index: -1
+Mai1
+  rotate: false
+  xy: 211, 1
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+LD1
+  rotate: false
+  xy: 329, 147
+  size: 22, 46
+  orig: 22, 57
+  offset: 0, 11
+  index: -1
+LD2
+  rotate: false
+  xy: 305, 147
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+LD3
+  rotate: false
+  xy: 493, 1
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 269, 147
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+as1
+  rotate: false
+  xy: 359, 1
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 359, 127
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 135, 147
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+as4
+  rotate: false
+  xy: 359, 64
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+Jackpots
+  rotate: false
+  xy: 1, 138
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+LM_1
+  rotate: false
+  xy: 493, 37
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1

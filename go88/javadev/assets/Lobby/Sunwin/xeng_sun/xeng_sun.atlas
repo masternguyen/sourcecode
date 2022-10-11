@@ -1,0 +1,90 @@
+
+xeng_sun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 1, 1
+  size: 269, 434
+  orig: 273, 435
+  offset: 2, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 58, 437
+  size: 61, 53
+  orig: 61, 54
+  offset: 0, 1
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1, 437
+  size: 55, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 121, 437
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+XÈNG
+  rotate: false
+  xy: 648, 420
+  size: 181, 88
+  orig: 184, 90
+  offset: 2, 2
+  index: -1
+XÈNG_2
+  rotate: false
+  xy: 648, 330
+  size: 181, 88
+  orig: 184, 90
+  offset: 2, 2
+  index: -1
+7_T
+  rotate: false
+  xy: 409, 169
+  size: 131, 159
+  orig: 139, 168
+  offset: 6, 4
+  index: -1
+7_P
+  rotate: false
+  xy: 272, 169
+  size: 135, 166
+  orig: 139, 169
+  offset: 2, 1
+  index: -1
+7_P_2
+  rotate: false
+  xy: 272, 337
+  size: 135, 166
+  orig: 139, 169
+  offset: 2, 1
+  index: -1
+7_T_2
+  rotate: false
+  xy: 272, 1
+  size: 136, 166
+  orig: 139, 168
+  offset: 2, 0
+  index: -1
+7
+  rotate: false
+  xy: 533, 330
+  size: 113, 167
+  orig: 126, 171
+  offset: 0, 1
+  index: -1
+8
+  rotate: false
+  xy: 409, 330
+  size: 122, 168
+  orig: 126, 171
+  offset: 0, 0
+  index: -1

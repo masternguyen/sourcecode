@@ -1,0 +1,230 @@
+
+anim_bikini girl.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jdau
+  rotate: true
+  xy: 1653, 338
+  size: 172, 330
+  orig: 172, 330
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 1634, 243
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 706, 32
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1718, 259
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1192, 50
+  size: 302, 301
+  orig: 302, 301
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 1496, 159
+  size: 192, 136
+  orig: 192, 136
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 3402, 368
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 3402, 368
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 2365, 272
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2249, 322
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 2486, 318
+  size: 205, 192
+  orig: 205, 192
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 3561, 368
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 1045, 76
+  size: 139, 52
+  orig: 139, 52
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: true
+  xy: 3239, 362
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+v2
+  rotate: true
+  xy: 1192, 353
+  size: 157, 459
+  orig: 157, 459
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 792, 40
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 3720, 416
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+wbody
+  rotate: true
+  xy: 2, 173
+  size: 337, 802
+  orig: 337, 802
+  offset: 0, 0
+  index: -1
+wdau
+  rotate: true
+  xy: 1985, 274
+  size: 236, 262
+  orig: 236, 262
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 2249, 270
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+wilddai
+  rotate: false
+  xy: 3844, 446
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+wmu
+  rotate: false
+  xy: 2, 2
+  size: 283, 169
+  orig: 283, 169
+  offset: 0, 0
+  index: -1
+wnguc
+  rotate: true
+  xy: 287, 7
+  size: 164, 223
+  orig: 164, 223
+  offset: 0, 0
+  index: -1
+wphao
+  rotate: false
+  xy: 806, 130
+  size: 384, 380
+  orig: 384, 380
+  offset: 0, 0
+  index: -1
+wsh
+  rotate: false
+  xy: 3042, 377
+  size: 195, 133
+  orig: 195, 133
+  offset: 0, 0
+  index: -1
+wtay1
+  rotate: true
+  xy: 512, 11
+  size: 160, 192
+  orig: 160, 192
+  offset: 0, 0
+  index: -1
+wtoc1
+  rotate: true
+  xy: 907, 72
+  size: 56, 136
+  orig: 56, 136
+  offset: 0, 0
+  index: -1
+wtoc2
+  rotate: true
+  xy: 1496, 58
+  size: 99, 132
+  orig: 99, 132
+  offset: 0, 0
+  index: -1
+wtoc3
+  rotate: false
+  xy: 2693, 332
+  size: 183, 178
+  orig: 183, 178
+  offset: 0, 0
+  index: -1
+wvai
+  rotate: false
+  xy: 1634, 170
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: true
+  xy: 3991, 400
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+xoay 1
+  rotate: false
+  xy: 2878, 334
+  size: 162, 176
+  orig: 162, 176
+  offset: 0, 0
+  index: -1

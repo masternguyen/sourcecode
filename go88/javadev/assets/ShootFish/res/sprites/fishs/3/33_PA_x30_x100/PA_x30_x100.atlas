@@ -1,0 +1,47 @@
+PA_x30_x100.png
+size: 195,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 30, 2
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 58, 2
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 134, 8
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+shaaaa
+  rotate: true
+  xy: 134, 39
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+x30x100
+  rotate: false
+  xy: 2, 10
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1

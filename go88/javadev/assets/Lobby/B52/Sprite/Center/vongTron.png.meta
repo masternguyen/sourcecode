@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d32c4752-5278-4d45-9f4a-534061b450a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 74,
+  "platformSettings": {},
+  "subMetas": {
+    "vongTron": {
+      "ver": "1.0.4",
+      "uuid": "59e1323a-40aa-4007-a27d-395c3d583725",
+      "rawTextureUuid": "d32c4752-5278-4d45-9f4a-534061b450a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 74,
+      "rawWidth": 74,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

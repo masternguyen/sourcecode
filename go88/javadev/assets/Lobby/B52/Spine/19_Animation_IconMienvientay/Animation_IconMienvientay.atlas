@@ -1,0 +1,202 @@
+
+Animation_IconMienvientay.png
+size: 835,835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 356
+  size: 285, 477
+  orig: 285, 477
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 289, 413
+  size: 275, 420
+  orig: 275, 420
+  offset: 0, 0
+  index: -1
+icongame0
+  rotate: false
+  xy: 566, 438
+  size: 261, 395
+  orig: 261, 395
+  offset: 0, 0
+  index: -1
+icongame1
+  rotate: false
+  xy: 498, 128
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+icongame10
+  rotate: true
+  xy: 729, 212
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame11
+  rotate: false
+  xy: 581, 82
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+icongame12
+  rotate: false
+  xy: 729, 137
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+icongame13
+  rotate: true
+  xy: 729, 172
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame14
+  rotate: false
+  xy: 535, 80
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+icongame15
+  rotate: false
+  xy: 263, 321
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+icongame16
+  rotate: false
+  xy: 675, 111
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+icongame17
+  rotate: true
+  xy: 772, 298
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+icongame18
+  rotate: true
+  xy: 623, 90
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+icongame19
+  rotate: true
+  xy: 799, 367
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+icongame2
+  rotate: true
+  xy: 263, 151
+  size: 126, 233
+  orig: 126, 233
+  offset: 0, 0
+  index: -1
+icongame20
+  rotate: true
+  xy: 799, 387
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+icongame21
+  rotate: false
+  xy: 405, 67
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+icongame3
+  rotate: true
+  xy: 104, 25
+  size: 49, 125
+  orig: 49, 125
+  offset: 0, 0
+  index: -1
+icongame4
+  rotate: true
+  xy: 551, 252
+  size: 39, 206
+  orig: 39, 206
+  offset: 0, 0
+  index: -1
+icongame5
+  rotate: false
+  xy: 263, 2
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+icongame6
+  rotate: true
+  xy: 405, 2
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+icongame7
+  rotate: true
+  xy: 675, 146
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+icongame8
+  rotate: false
+  xy: 482, 77
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+icongame9
+  rotate: false
+  xy: 566, 338
+  size: 231, 98
+  orig: 231, 98
+  offset: 0, 0
+  index: -1
+khungJP
+  rotate: false
+  xy: 289, 279
+  size: 260, 132
+  orig: 260, 132
+  offset: 0, 0
+  index: -1
+miengkinh
+  rotate: false
+  xy: 551, 293
+  size: 219, 43
+  orig: 219, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 76
+  size: 259, 278
+  orig: 259, 278
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 100, 72
+  orig: 100, 73
+  offset: 0, 0
+  index: -1

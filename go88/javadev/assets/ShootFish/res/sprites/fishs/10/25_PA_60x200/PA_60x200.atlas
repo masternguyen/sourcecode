@@ -1,0 +1,61 @@
+PA_60x200.png
+size: 493,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_w
+  rotate: true
+  xy: 180, 11
+  size: 123, 166
+  orig: 123, 166
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 348, 28
+  size: 17, 76
+  orig: 17, 76
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 437, 58
+  size: 15, 76
+  orig: 15, 76
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 348, 13
+  size: 13, 76
+  orig: 13, 76
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 454, 99
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 454, 62
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+quat
+  rotate: false
+  xy: 348, 47
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+sha
+  rotate: true
+  xy: 2, 2
+  size: 132, 176
+  orig: 132, 176
+  offset: 0, 0
+  index: -1

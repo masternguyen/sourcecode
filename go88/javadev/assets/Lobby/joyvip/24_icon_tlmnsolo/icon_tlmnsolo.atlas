@@ -1,0 +1,62 @@
+
+icon_tlmnsolo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2bitch
+  rotate: false
+  xy: 210, 38
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+2co
+  rotate: true
+  xy: 351, 155
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+2ro
+  rotate: false
+  xy: 433, 53
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+2tep
+  rotate: false
+  xy: 352, 52
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+bg_tlmnsolo
+  rotate: false
+  xy: 2, 34
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: false
+  xy: 210, 147
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+txt_solo
+  rotate: false
+  xy: 2, 10
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+txt_tlmn
+  rotate: true
+  xy: 305, 2
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1

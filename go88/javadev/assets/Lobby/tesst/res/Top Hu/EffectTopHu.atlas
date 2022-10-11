@@ -1,0 +1,48 @@
+
+EffectTopHu.png
+size: 100,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-1
+  rotate: true
+  xy: 1, 23
+  size: 108, 34
+  orig: 108, 34
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 37, 29
+  size: 102, 28
+  orig: 102, 28
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 67, 29
+  size: 102, 28
+  orig: 102, 28
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 1, 1
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 37, 7
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 69, 7
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

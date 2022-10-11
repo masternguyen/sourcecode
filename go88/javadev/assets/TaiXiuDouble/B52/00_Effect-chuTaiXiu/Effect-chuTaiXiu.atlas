@@ -1,0 +1,48 @@
+
+Effect-chuTaiXiu.png
+size: 317,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+domVang
+  rotate: false
+  xy: 91, 11
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dotTrang
+  rotate: false
+  xy: 116, 21
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 169, 21
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+toaSang
+  rotate: false
+  xy: 4, 36
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+toaSangLe
+  rotate: true
+  xy: 4, 4
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 169, 107
+  size: 144, 90
+  orig: 144, 90
+  offset: 0, 0
+  index: -1

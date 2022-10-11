@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "239a39b8-80c3-4a15-aa4d-a18235ebb3de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "B52_IConGameLobby": {
+      "ver": "1.0.4",
+      "uuid": "447f2943-6b07-42eb-b41e-93d51a8735f5",
+      "rawTextureUuid": "239a39b8-80c3-4a15-aa4d-a18235ebb3de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -87,
+      "offsetY": 4.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 848,
+      "height": 1013,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

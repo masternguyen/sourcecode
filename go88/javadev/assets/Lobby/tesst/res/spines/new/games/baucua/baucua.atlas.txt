@@ -1,0 +1,62 @@
+
+baucua.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_bau
+  rotate: false
+  xy: 794, 154
+  size: 142, 71
+  orig: 142, 71
+  offset: 0, 0
+  index: -1
+8_coin
+  rotate: false
+  xy: 394, 23
+  size: 198, 202
+  orig: 198, 202
+  offset: 0, 0
+  index: -1
+8_cua
+  rotate: false
+  xy: 794, 98
+  size: 140, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+8_item
+  rotate: false
+  xy: 594, 57
+  size: 198, 168
+  orig: 198, 168
+  offset: 0, 0
+  index: -1
+8_xx1
+  rotate: true
+  xy: 938, 143
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+8_xx2
+  rotate: false
+  xy: 890, 11
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+8_xx3
+  rotate: false
+  xy: 794, 2
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+Group 31172
+  rotate: true
+  xy: 2, 2
+  size: 223, 390
+  orig: 223, 390
+  offset: 0, 0
+  index: -1

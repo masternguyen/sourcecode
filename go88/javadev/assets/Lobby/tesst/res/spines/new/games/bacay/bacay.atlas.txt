@@ -1,0 +1,27 @@
+
+bacay.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_bacay
+  rotate: true
+  xy: 401, 2
+  size: 197, 74
+  orig: 197, 74
+  offset: 0, 0
+  index: -1
+10_bg
+  rotate: false
+  xy: 2, 13
+  size: 223, 186
+  orig: 223, 186
+  offset: 0, 0
+  index: -1
+10_item
+  rotate: false
+  xy: 227, 38
+  size: 172, 161
+  orig: 172, 161
+  offset: 0, 0
+  index: -1

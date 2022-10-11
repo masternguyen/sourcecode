@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d9a8d997-894d-438b-beba-59a227a2126d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 275,
+  "height": 192,
+  "platformSettings": {},
+  "subMetas": {
+    "xoTom": {
+      "ver": "1.0.4",
+      "uuid": "e2e028f1-b7b4-458a-a6f0-1ec83b854a17",
+      "rawTextureUuid": "d9a8d997-894d-438b-beba-59a227a2126d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 275,
+      "height": 192,
+      "rawWidth": 275,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

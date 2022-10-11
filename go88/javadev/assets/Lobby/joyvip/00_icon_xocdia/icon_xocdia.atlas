@@ -1,0 +1,69 @@
+
+icon_xocdia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh_sang_lan_toa
+  rotate: false
+  xy: 210, 62
+  size: 192, 188
+  orig: 192, 188
+  offset: 0, 0
+  index: -1
+bg_xocdia
+  rotate: false
+  xy: 2, 38
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+caidia
+  rotate: true
+  xy: 404, 108
+  size: 142, 47
+  orig: 142, 47
+  offset: 0, 0
+  index: -1
+quan_den1
+  rotate: false
+  xy: 404, 62
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+quan_den2
+  rotate: true
+  xy: 397, 18
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+quan_do1
+  rotate: false
+  xy: 2, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+quan_do2
+  rotate: false
+  xy: 453, 222
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+txt_dia
+  rotate: false
+  xy: 310, 2
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+txt_xoc
+  rotate: false
+  xy: 210, 2
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+banca.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21_BG
+  rotate: false
+  xy: 1, 1
+  size: 221, 387
+  orig: 223, 389
+  offset: 1, 1
+  index: -1
+21_ca
+  rotate: false
+  xy: 224, 1
+  size: 163, 256
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+21_banca
+  rotate: false
+  xy: 1, 390
+  size: 185, 86
+  orig: 187, 88
+  offset: 1, 1
+  index: -1
+21_nuoc
+  rotate: false
+  xy: 188, 390
+  size: 184, 86
+  orig: 186, 88
+  offset: 1, 1
+  index: -1

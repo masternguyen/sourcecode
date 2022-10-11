@@ -1,0 +1,76 @@
+
+angrybirds_symbol_1_0.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KING-PIG_1
+  rotate: true
+  xy: 2, 232
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+KING-PIG_2
+  rotate: true
+  xy: 254, 232
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+KING-PIG_3
+  rotate: true
+  xy: 506, 232
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+KING-PIG_4
+  rotate: false
+  xy: 758, 223
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+KING-PIG_bonus
+  rotate: false
+  xy: 404, 2
+  size: 137, 44
+  orig: 137, 44
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_01
+  rotate: false
+  xy: 786, 33
+  size: 181, 188
+  orig: 181, 188
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_02
+  rotate: false
+  xy: 404, 48
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_03
+  rotate: false
+  xy: 595, 39
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_04
+  rotate: true
+  xy: 212, 47
+  size: 183, 190
+  orig: 183, 190
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_05
+  rotate: true
+  xy: 2, 29
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b6c6fc19-4e54-4d33-bc18-ab54f60e8911",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 93,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "bauHolo": {
+      "ver": "1.0.4",
+      "uuid": "698aa06a-c8d1-4869-8c57-19a1550ca104",
+      "rawTextureUuid": "b6c6fc19-4e54-4d33-bc18-ab54f60e8911",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 93,
+      "height": 98,
+      "rawWidth": 93,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

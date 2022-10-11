@@ -1,0 +1,145 @@
+skeleton.png
+size: 993,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electric Move 01
+  rotate: false
+  xy: 812, 260
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+Electric Move 02
+  rotate: true
+  xy: 812, 103
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+Electric Move 03
+  rotate: true
+  xy: 872, 103
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+Electric Move 04
+  rotate: true
+  xy: 932, 103
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+TCL_BANG
+  rotate: true
+  xy: 2, 81
+  size: 387, 163
+  orig: 387, 163
+  offset: 0, 0
+  index: -1
+TCL_TEXT
+  rotate: false
+  xy: 2, 2
+  size: 285, 77
+  orig: 285, 77
+  offset: 0, 0
+  index: -1
+TCL_TEXT_sang
+  rotate: false
+  xy: 289, 2
+  size: 285, 77
+  orig: 285, 77
+  offset: 0, 0
+  index: -1
+TCL_note
+  rotate: false
+  xy: 955, 451
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+TL_BANG
+  rotate: true
+  xy: 167, 81
+  size: 387, 163
+  orig: 387, 163
+  offset: 0, 0
+  index: -1
+TL_TEXT
+  rotate: true
+  xy: 662, 115
+  size: 203, 73
+  orig: 203, 73
+  offset: 0, 0
+  index: -1
+TL_TEXT_sang
+  rotate: true
+  xy: 737, 115
+  size: 203, 73
+  orig: 203, 73
+  offset: 0, 0
+  index: -1
+TL_note
+  rotate: false
+  xy: 955, 432
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+TRL_BANG
+  rotate: true
+  xy: 332, 81
+  size: 387, 163
+  orig: 387, 163
+  offset: 0, 0
+  index: -1
+TRL_TEXT
+  rotate: false
+  xy: 662, 395
+  size: 291, 73
+  orig: 291, 73
+  offset: 0, 0
+  index: -1
+TRL_TEXT_sang
+  rotate: false
+  xy: 662, 320
+  size: 291, 73
+  orig: 291, 73
+  offset: 0, 0
+  index: -1
+TRL_note
+  rotate: false
+  xy: 955, 413
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+TSL_BANG
+  rotate: true
+  xy: 497, 81
+  size: 387, 163
+  orig: 387, 163
+  offset: 0, 0
+  index: -1
+TSL_TEXT
+  rotate: false
+  xy: 576, 2
+  size: 285, 77
+  orig: 285, 77
+  offset: 0, 0
+  index: -1
+TSL_note
+  rotate: false
+  xy: 955, 394
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 985, 276
+  size: 192, 6
+  orig: 192, 6
+  offset: 0, 0
+  index: -1

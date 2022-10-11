@@ -1,0 +1,27 @@
+
+AnimLoadingScreen.png
+size: 1410,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 471, 50
+  size: 468, 221
+  orig: 468, 460
+  offset: 0, 206
+  index: -1
+2
+  rotate: false
+  xy: 941, 83
+  size: 468, 188
+  orig: 468, 460
+  offset: 0, 53
+  index: -1
+LOGO
+  rotate: false
+  xy: 1, 1
+  size: 468, 270
+  orig: 468, 460
+  offset: 0, 95
+  index: -1

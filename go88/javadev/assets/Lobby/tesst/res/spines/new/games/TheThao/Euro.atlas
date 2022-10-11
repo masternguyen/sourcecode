@@ -1,0 +1,41 @@
+
+Euro.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bongdabg
+  rotate: false
+  xy: 355, 1
+  size: 289, 436
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+Group 31244
+  rotate: false
+  xy: 1, 1
+  size: 352, 498
+  orig: 352, 498
+  offset: 0, 0
+  index: -1
+8d0337844d0e73b3a91c510a22192231a65b7d00cefb-suuUlb
+  rotate: false
+  xy: 646, 248
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Group 31213
+  rotate: false
+  xy: 646, 1
+  size: 314, 126
+  orig: 314, 126
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 646, 129
+  size: 254, 117
+  orig: 254, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,342 @@
+
+worlddance.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+241
+  rotate: false
+  xy: 1, 1
+  size: 234, 383
+  orig: 234, 383
+  offset: 0, 0
+  index: -1
+equalizer_01
+  rotate: false
+  xy: 536, 946
+  size: 113, 56
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+equalizer_03
+  rotate: false
+  xy: 421, 946
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+equalizer_02
+  rotate: false
+  xy: 398, 131
+  size: 113, 37
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+equalizer_00
+  rotate: false
+  xy: 162, 951
+  size: 113, 56
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 1, 715
+  size: 172, 172
+  orig: 251, 368
+  offset: 44, 131
+  index: -1
+vong sang
+  rotate: false
+  xy: 175, 715
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+girl_dance_22
+  rotate: false
+  xy: 691, 818
+  size: 87, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_07
+  rotate: false
+  xy: 260, 501
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_21
+  rotate: false
+  xy: 618, 1
+  size: 87, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_24
+  rotate: false
+  xy: 691, 730
+  size: 87, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_10
+  rotate: false
+  xy: 511, 768
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_23
+  rotate: false
+  xy: 529, 1
+  size: 87, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_25
+  rotate: false
+  xy: 691, 906
+  size: 87, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_09
+  rotate: false
+  xy: 350, 500
+  size: 87, 87
+  orig: 89, 87
+  offset: 2, 0
+  index: -1
+girl_dance_12
+  rotate: false
+  xy: 440, 500
+  size: 87, 87
+  orig: 89, 87
+  offset: 2, 0
+  index: -1
+girl_dance_11
+  rotate: false
+  xy: 437, 678
+  size: 87, 87
+  orig: 89, 87
+  offset: 2, 0
+  index: -1
+girl_dance_00
+  rotate: false
+  xy: 350, 589
+  size: 87, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_13
+  rotate: false
+  xy: 260, 590
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_02
+  rotate: false
+  xy: 601, 857
+  size: 88, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_14
+  rotate: false
+  xy: 260, 412
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_16
+  rotate: false
+  xy: 350, 323
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_01
+  rotate: false
+  xy: 439, 589
+  size: 87, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_15
+  rotate: false
+  xy: 421, 857
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_04
+  rotate: false
+  xy: 350, 412
+  size: 89, 86
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_18
+  rotate: false
+  xy: 347, 679
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_17
+  rotate: false
+  xy: 511, 857
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_03
+  rotate: false
+  xy: 260, 323
+  size: 88, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+girl_dance_20
+  rotate: false
+  xy: 764, 1
+  size: 87, 86
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_06
+  rotate: false
+  xy: 601, 766
+  size: 88, 86
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_19
+  rotate: false
+  xy: 528, 589
+  size: 88, 86
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_05
+  rotate: false
+  xy: 526, 678
+  size: 88, 86
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+girl_dance_08
+  rotate: false
+  xy: 347, 768
+  size: 88, 87
+  orig: 89, 87
+  offset: 1, 0
+  index: -1
+Group 65
+  rotate: false
+  xy: 1, 386
+  size: 257, 327
+  orig: 266, 340
+  offset: 4, 7
+  index: -1
+Set3c1
+  rotate: false
+  xy: 616, 730
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Set3c
+  rotate: false
+  xy: 1, 889
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: false
+  xy: 237, 1
+  size: 159, 320
+  orig: 159, 320
+  offset: 0, 0
+  index: -1
+set4c1
+  rotate: false
+  xy: 347, 857
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+set4c
+  rotate: false
+  xy: 88, 889
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 440, 1
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+mat nham
+  rotate: false
+  xy: 1, 1012
+  size: 28, 10
+  orig: 30, 12
+  offset: 1, 1
+  index: -1
+mat nham2
+  rotate: false
+  xy: 403, 857
+  size: 12, 10
+  orig: 30, 12
+  offset: 1, 1
+  index: -1
+dance
+  rotate: false
+  xy: 175, 887
+  size: 244, 62
+  orig: 246, 63
+  offset: 1, 1
+  index: -1
+world of
+  rotate: false
+  xy: 651, 994
+  size: 164, 26
+  orig: 166, 28
+  offset: 1, 1
+  index: -1
+toc_highlight
+  rotate: false
+  xy: 277, 951
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 616, 677
+  size: 146, 51
+  orig: 146, 51
+  offset: 0, 0
+  index: -1
+e1 copy
+  rotate: false
+  xy: 364, 951
+  size: 53, 47
+  orig: 55, 49
+  offset: 1, 1
+  index: -1
+den
+  rotate: false
+  xy: 497, 1
+  size: 28, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1

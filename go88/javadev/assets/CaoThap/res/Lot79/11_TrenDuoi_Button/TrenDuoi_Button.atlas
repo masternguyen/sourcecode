@@ -1,0 +1,33 @@
+TrenDuoi_Button.png
+size: 380,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 315, 84
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 315, 8
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+A1
+  rotate: false
+  xy: 1, 1
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 158, 1
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1

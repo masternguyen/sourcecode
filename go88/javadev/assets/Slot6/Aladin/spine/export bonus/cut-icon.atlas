@@ -1,0 +1,34 @@
+
+cut-icon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 34
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 185, 63
+  size: 134, 174
+  orig: 134, 174
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 321, 119
+  size: 118, 177
+  orig: 118, 177
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 185, 2
+  size: 199, 59
+  orig: 199, 59
+  offset: 0, 0
+  index: -1

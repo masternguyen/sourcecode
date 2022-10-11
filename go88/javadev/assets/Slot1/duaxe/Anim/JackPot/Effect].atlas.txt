@@ -1,0 +1,160 @@
+
+Effect].png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 319, 37
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 319, 87
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 319, 136
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+car1
+  rotate: false
+  xy: 547, 261
+  size: 308, 233
+  orig: 308, 233
+  offset: 0, 0
+  index: -1
+car2
+  rotate: false
+  xy: 2, 2
+  size: 315, 240
+  orig: 315, 240
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 2, 244
+  size: 543, 250
+  orig: 543, 250
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: true
+  xy: 857, 225
+  size: 269, 280
+  orig: 269, 280
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1423, 289
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+g10
+  rotate: false
+  xy: 1229, 234
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+g11
+  rotate: false
+  xy: 1510, 305
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+g12
+  rotate: false
+  xy: 1909, 458
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1558, 327
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 408, 147
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+g5
+  rotate: true
+  xy: 1909, 432
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+g6
+  rotate: true
+  xy: 1985, 464
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+g7
+  rotate: false
+  xy: 408, 200
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+g8
+  rotate: true
+  xy: 1139, 233
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+g9
+  rotate: false
+  xy: 478, 215
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1809, 430
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1423, 356
+  size: 366, 68
+  orig: 366, 68
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 1423, 426
+  size: 384, 68
+  orig: 384, 68
+  offset: 0, 0
+  index: -1
+voman
+  rotate: false
+  xy: 1139, 282
+  size: 282, 212
+  orig: 282, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+avenger.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17_BG
+  rotate: false
+  xy: 310, 97
+  size: 222, 390
+  orig: 222, 390
+  offset: 0, 0
+  index: -1
+17_hand
+  rotate: false
+  xy: 534, 288
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+17_hand2
+  rotate: false
+  xy: 774, 417
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+17_logo
+  rotate: false
+  xy: 310, 2
+  size: 218, 93
+  orig: 218, 93
+  offset: 0, 0
+  index: -1
+17_nv
+  rotate: false
+  xy: 2, 2
+  size: 306, 485
+  orig: 306, 485
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: false
+  xy: 534, 382
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

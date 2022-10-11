@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "17320026-b718-4e76-829d-46d0c2caf0e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 600,
+  "height": 400,
+  "platformSettings": {},
+  "subMetas": {
+    "logo-casino-chung-phat": {
+      "ver": "1.0.4",
+      "uuid": "5969f1f9-5653-4357-9ad4-66fc2566d780",
+      "rawTextureUuid": "17320026-b718-4e76-829d-46d0c2caf0e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 6.5,
+      "trimX": 65,
+      "trimY": 12,
+      "width": 461,
+      "height": 363,
+      "rawWidth": 600,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

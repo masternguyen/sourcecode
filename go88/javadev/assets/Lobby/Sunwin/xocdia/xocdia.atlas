@@ -1,0 +1,118 @@
+
+xocdia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 464, 1
+  size: 273, 435
+  orig: 273, 435
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 739, 415
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 537, 652
+  size: 66, 216
+  orig: 66, 216
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 739, 1
+  size: 228, 412
+  orig: 228, 412
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 262, 438
+  size: 272, 225
+  orig: 272, 225
+  offset: 0, 0
+  index: -1
+dia_2
+  rotate: false
+  xy: 153, 662
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 442, 366
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 171, 607
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dia_fx
+  rotate: false
+  xy: 1, 828
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+dia_1
+  rotate: false
+  xy: 536, 438
+  size: 155, 133
+  orig: 155, 133
+  offset: 0, 0
+  index: -1
+fx text
+  rotate: false
+  xy: 1, 366
+  size: 259, 239
+  orig: 259, 239
+  offset: 0, 0
+  index: -1
+text_tulinh
+  rotate: false
+  xy: 262, 665
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+text_xocdia
+  rotate: false
+  xy: 262, 366
+  size: 178, 65
+  orig: 178, 65
+  offset: 0, 0
+  index: -1
+text_tulinhlight
+  rotate: false
+  xy: 536, 573
+  size: 201, 77
+  orig: 201, 77
+  offset: 0, 0
+  index: -1
+text_xocdialight
+  rotate: false
+  xy: 1, 607
+  size: 168, 53
+  orig: 168, 53
+  offset: 0, 0
+  index: -1
+logo-casino-chung-phat
+  rotate: false
+  xy: 1, 1
+  size: 461, 363
+  orig: 600, 400
+  offset: 65, 25
+  index: -1

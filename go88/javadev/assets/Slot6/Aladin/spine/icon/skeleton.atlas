@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 353, 106
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+bach duong
+  rotate: false
+  xy: 443, 19
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+bao binh
+  rotate: true
+  xy: 938, 138
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+bo cap
+  rotate: true
+  xy: 518, 44
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+cu giai
+  rotate: false
+  xy: 218, 14
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+kim nguu
+  rotate: false
+  xy: 479, 127
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+ma ket
+  rotate: false
+  xy: 759, 135
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+nhan ma
+  rotate: true
+  xy: 579, 130
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+song ngu
+  rotate: false
+  xy: 670, 133
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+song tu
+  rotate: false
+  xy: 600, 47
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+su tu
+  rotate: false
+  xy: 848, 139
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+thien binh
+  rotate: false
+  xy: 672, 50
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+vong tron
+  rotate: false
+  xy: 218, 82
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+vong tron 2
+  rotate: false
+  xy: 2, 2
+  size: 214, 212
+  orig: 214, 212
+  offset: 0, 0
+  index: -1
+xu nu
+  rotate: true
+  xy: 353, 33
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1

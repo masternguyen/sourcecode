@@ -1,0 +1,47 @@
+PA_180.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame
+  rotate: false
+  xy: 2, 52
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: true
+  xy: 167, 2
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+flame_smoke1
+  rotate: false
+  xy: 2, 28
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+flame_smoke2
+  rotate: true
+  xy: 178, 121
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 178, 191
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+x12
+  rotate: false
+  xy: 2, 100
+  size: 174, 144
+  orig: 174, 144
+  offset: 0, 0
+  index: -1

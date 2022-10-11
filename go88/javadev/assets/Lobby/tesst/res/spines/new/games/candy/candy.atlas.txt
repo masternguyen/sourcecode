@@ -1,0 +1,41 @@
+
+candy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_BG
+  rotate: false
+  xy: 2, 4
+  size: 222, 187
+  orig: 222, 187
+  offset: 0, 0
+  index: -1
+11_candy
+  rotate: false
+  xy: 395, 123
+  size: 205, 68
+  orig: 205, 68
+  offset: 0, 0
+  index: -1
+11_candy1
+  rotate: false
+  xy: 395, 2
+  size: 129, 119
+  orig: 129, 119
+  offset: 0, 0
+  index: -1
+11_candy2
+  rotate: false
+  xy: 226, 36
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+11_candy3
+  rotate: false
+  xy: 602, 66
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

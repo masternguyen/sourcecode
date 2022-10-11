@@ -1,0 +1,48 @@
+
+diamond.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20_BG
+  rotate: true
+  xy: 2, 27
+  size: 223, 389
+  orig: 223, 389
+  offset: 0, 0
+  index: -1
+20_diamond
+  rotate: false
+  xy: 633, 194
+  size: 210, 56
+  orig: 210, 56
+  offset: 0, 0
+  index: -1
+20_kc1
+  rotate: false
+  xy: 554, 5
+  size: 149, 138
+  orig: 149, 138
+  offset: 0, 0
+  index: -1
+20_kc2
+  rotate: true
+  xy: 705, 41
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+20_kc3
+  rotate: false
+  xy: 393, 2
+  size: 159, 141
+  orig: 159, 141
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: false
+  xy: 393, 145
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

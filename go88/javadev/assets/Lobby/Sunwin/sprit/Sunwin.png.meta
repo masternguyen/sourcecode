@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "77ee59e4-84f9-450e-a776-7f37b02ae48c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 517,
+  "height": 487,
+  "platformSettings": {},
+  "subMetas": {
+    "Sunwin": {
+      "ver": "1.0.4",
+      "uuid": "ef23f465-9267-4cb7-acb9-600c99fc9a4c",
+      "rawTextureUuid": "77ee59e4-84f9-450e-a776-7f37b02ae48c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 517,
+      "height": 487,
+      "rawWidth": 517,
+      "rawHeight": 487,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

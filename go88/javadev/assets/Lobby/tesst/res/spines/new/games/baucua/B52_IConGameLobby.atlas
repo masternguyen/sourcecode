@@ -1,0 +1,41 @@
+
+B52_IConGameLobby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bggxd
+  rotate: false
+  xy: 1, 1
+  size: 289, 436
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+3 copy
+  rotate: false
+  xy: 829, 168
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+2 copy
+  rotate: false
+  xy: 829, 1
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: false
+  xy: 617, 1
+  size: 210, 231
+  orig: 210, 231
+  offset: 0, 0
+  index: -1
+4 copy
+  rotate: false
+  xy: 292, 1
+  size: 323, 190
+  orig: 323, 190
+  offset: 0, 0
+  index: -1

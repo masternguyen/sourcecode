@@ -1,0 +1,41 @@
+
+oantuti.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_BG
+  rotate: false
+  xy: 2, 63
+  size: 223, 186
+  orig: 223, 186
+  offset: 0, 0
+  index: -1
+22_oan
+  rotate: true
+  xy: 417, 128
+  size: 121, 67
+  orig: 121, 67
+  offset: 0, 0
+  index: -1
+22_ti
+  rotate: false
+  xy: 81, 2
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+22_tu
+  rotate: false
+  xy: 2, 2
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: false
+  xy: 227, 89
+  size: 188, 160
+  orig: 188, 160
+  offset: 0, 0
+  index: -1

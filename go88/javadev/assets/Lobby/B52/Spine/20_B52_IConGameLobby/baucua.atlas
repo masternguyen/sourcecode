@@ -1,0 +1,48 @@
+
+baucua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_rongho
+  rotate: false
+  xy: 390, 193
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+VongTron
+  rotate: false
+  xy: 1, 1
+  size: 387, 387
+  orig: 387, 387
+  offset: 0, 0
+  index: -1
+3 copy
+  rotate: false
+  xy: 756, 234
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+2 copy
+  rotate: false
+  xy: 598, 234
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: false
+  xy: 715, 1
+  size: 210, 231
+  orig: 210, 231
+  offset: 0, 0
+  index: -1
+4 copy
+  rotate: false
+  xy: 390, 1
+  size: 323, 190
+  orig: 323, 190
+  offset: 0, 0
+  index: -1

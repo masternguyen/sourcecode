@@ -1,0 +1,419 @@
+
+B52_IConGameLobby.png
+size: 2001,2001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1703, 33
+  size: 139, 140
+  orig: 149, 142
+  offset: 5, 1
+  index: -1
+1 copy
+  rotate: false
+  xy: 1714, 700
+  size: 210, 231
+  orig: 210, 231
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1774, 174
+  size: 162, 139
+  orig: 163, 149
+  offset: 0, 5
+  index: -1
+2 copy
+  rotate: true
+  xy: 1164, 2
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1331, 3
+  size: 155, 133
+  orig: 155, 142
+  offset: 0, 5
+  index: -1
+3 copy
+  rotate: false
+  xy: 1845, 50
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1466, 64
+  size: 155, 104
+  orig: 225, 149
+  offset: 25, 23
+  index: -1
+4 copy
+  rotate: true
+  xy: 1238, 755
+  size: 323, 190
+  orig: 323, 190
+  offset: 0, 0
+  index: -1
+4A
+  rotate: false
+  xy: 1784, 1058
+  size: 157, 106
+  orig: 199, 132
+  offset: 22, 20
+  index: -1
+5
+  rotate: false
+  xy: 1176, 160
+  size: 228, 40
+  orig: 237, 48
+  offset: 5, 4
+  index: -1
+5 copy
+  rotate: false
+  xy: 1421, 480
+  size: 266, 45
+  orig: 266, 45
+  offset: 0, 0
+  index: -1
+5A
+  rotate: false
+  xy: 1714, 658
+  size: 228, 40
+  orig: 232, 42
+  offset: 1, 0
+  index: -1
+B52/BG
+  rotate: false
+  xy: 374, 1480
+  size: 345, 519
+  orig: 345, 519
+  offset: 0, 0
+  index: -1
+B52/BoderDollar
+  rotate: false
+  xy: 757, 1278
+  size: 345, 201
+  orig: 345, 201
+  offset: 0, 0
+  index: -1
+B52/Boom
+  rotate: false
+  xy: 374, 1458
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+B52/Lua
+  rotate: true
+  xy: 1176, 202
+  size: 310, 243
+  orig: 310, 258
+  offset: 0, 0
+  index: -1
+B52/Lua1
+  rotate: true
+  xy: 1430, 683
+  size: 248, 282
+  orig: 248, 282
+  offset: 0, 0
+  index: -1
+B52/MayBay
+  rotate: false
+  xy: 1451, 1171
+  size: 345, 308
+  orig: 345, 308
+  offset: 0, 0
+  index: -1
+B52/Text1
+  rotate: false
+  xy: 1447, 1032
+  size: 307, 73
+  orig: 307, 73
+  offset: 0, 0
+  index: -1
+B52/Text2
+  rotate: true
+  xy: 681, 985
+  size: 133, 63
+  orig: 133, 63
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 721, 1481
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+BG copy
+  rotate: false
+  xy: 198, 413
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+Boder
+  rotate: false
+  xy: 2, 1454
+  size: 370, 545
+  orig: 370, 619
+  offset: 0, 74
+  index: -1
+CallOfWar/BG
+  rotate: false
+  xy: 1415, 1481
+  size: 340, 518
+  orig: 340, 518
+  offset: 0, 0
+  index: -1
+CallOfWar/Hero
+  rotate: false
+  xy: 1774, 315
+  size: 153, 211
+  orig: 153, 211
+  offset: 0, 0
+  index: -1
+CallOfWar/Jackpot
+  rotate: false
+  xy: 1104, 1080
+  size: 341, 175
+  orig: 341, 175
+  offset: 0, 0
+  index: -1
+CallOfWar/Text
+  rotate: false
+  xy: 1691, 528
+  size: 217, 128
+  orig: 217, 128
+  offset: 0, 0
+  index: -1
+HU
+  rotate: true
+  xy: 827, 63
+  size: 358, 140
+  orig: 358, 140
+  offset: 0, 0
+  index: -1
+Metal/BG
+  rotate: false
+  xy: 2, 933
+  size: 330, 519
+  orig: 330, 519
+  offset: 0, 0
+  index: -1
+Metal/Char1
+  rotate: true
+  xy: 2, 64
+  size: 346, 434
+  orig: 346, 447
+  offset: 0, 0
+  index: -1
+Metal/Char2
+  rotate: false
+  xy: 2, 412
+  size: 194, 519
+  orig: 194, 519
+  offset: 0, 0
+  index: -1
+Metal/Char3
+  rotate: false
+  xy: 1757, 1591
+  size: 240, 408
+  orig: 312, 502
+  offset: 72, 94
+  index: -1
+Metal/Line
+  rotate: false
+  xy: 2, 23
+  size: 346, 39
+  orig: 346, 39
+  offset: 0, 0
+  index: -1
+Metal/Text1
+  rotate: true
+  xy: 1577, 238
+  size: 240, 81
+  orig: 240, 81
+  offset: 0, 0
+  index: -1
+Metal/Text2
+  rotate: false
+  xy: 1798, 1166
+  size: 197, 81
+  orig: 197, 81
+  offset: 0, 0
+  index: -1
+STheThao/BG
+  rotate: false
+  xy: 1068, 1481
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1
+STheThao/Char1
+  rotate: false
+  xy: 889, 718
+  size: 230, 332
+  orig: 230, 332
+  offset: 0, 0
+  index: -1
+STheThao/Char2
+  rotate: true
+  xy: 889, 514
+  size: 202, 319
+  orig: 202, 319
+  offset: 0, 0
+  index: -1
+STheThao/DauChar2
+  rotate: false
+  xy: 1572, 67
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+STheThao/Gradian
+  rotate: false
+  xy: 1104, 1257
+  size: 345, 222
+  orig: 345, 222
+  offset: 0, 0
+  index: -1
+STheThao/Text
+  rotate: true
+  xy: 1121, 752
+  size: 326, 115
+  orig: 326, 115
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 1210, 548
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+Shadown
+  rotate: true
+  xy: 681, 1120
+  size: 358, 74
+  orig: 358, 74
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/BG
+  rotate: false
+  xy: 545, 423
+  size: 342, 509
+  orig: 342, 509
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Body
+  rotate: false
+  xy: 1798, 1249
+  size: 199, 340
+  orig: 199, 340
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Canh1
+  rotate: true
+  xy: 1421, 527
+  size: 154, 268
+  orig: 154, 268
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Canh2
+  rotate: false
+  xy: 1421, 221
+  size: 154, 257
+  orig: 154, 268
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Light
+  rotate: true
+  xy: 1238, 636
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Text_1
+  rotate: false
+  xy: 1430, 933
+  size: 288, 97
+  orig: 288, 97
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/Textt=_2
+  rotate: false
+  xy: 1447, 1107
+  size: 335, 62
+  orig: 335, 62
+  offset: 0, 0
+  index: -1
+TXPhuongHoang/XiNgau
+  rotate: true
+  xy: 1660, 244
+  size: 234, 112
+  orig: 234, 112
+  offset: 0, 0
+  index: -1
+VongTron
+  rotate: false
+  xy: 438, 24
+  size: 387, 387
+  orig: 387, 387
+  offset: 0, 0
+  index: -1
+X-1
+  rotate: false
+  xy: 969, 51
+  size: 193, 141
+  orig: 193, 141
+  offset: 0, 0
+  index: -1
+X-2
+  rotate: false
+  xy: 350, 37
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+X-2A
+  rotate: false
+  xy: 394, 37
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+X-4
+  rotate: true
+  xy: 969, 194
+  size: 318, 125
+  orig: 318, 131
+  offset: 0, 6
+  index: -1
+X-5
+  rotate: true
+  xy: 1096, 199
+  size: 313, 78
+  orig: 313, 78
+  offset: 0, 0
+  index: -1
+X-6
+  rotate: false
+  xy: 757, 1052
+  size: 345, 224
+  orig: 345, 291
+  offset: 0, 0
+  index: -1
+X-BG
+  rotate: false
+  xy: 334, 934
+  size: 345, 518
+  orig: 345, 518
+  offset: 0, 0
+  index: -1

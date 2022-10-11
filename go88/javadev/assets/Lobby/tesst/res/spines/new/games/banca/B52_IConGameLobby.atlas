@@ -1,0 +1,62 @@
+
+B52_IConGameLobby.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222
+  rotate: false
+  xy: 1, 1
+  size: 289, 436
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+B52/Lua
+  rotate: false
+  xy: 1, 749
+  size: 310, 243
+  orig: 310, 243
+  offset: 0, 0
+  index: -1
+B52/Boom
+  rotate: false
+  xy: 1, 994
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+B52/MayBay
+  rotate: false
+  xy: 1, 439
+  size: 345, 308
+  orig: 345, 308
+  offset: 0, 0
+  index: -1
+B52/Lua1
+  rotate: false
+  xy: 292, 1
+  size: 248, 282
+  orig: 248, 282
+  offset: 0, 0
+  index: -1
+B52/BoderDollar
+  rotate: false
+  xy: 292, 285
+  size: 345, 100
+  orig: 345, 100
+  offset: 0, 0
+  index: -1
+B52/Text1
+  rotate: false
+  xy: 542, 1
+  size: 307, 73
+  orig: 307, 73
+  offset: 0, 0
+  index: -1
+B52/Text2
+  rotate: false
+  xy: 542, 76
+  size: 133, 63
+  orig: 133, 63
+  offset: 0, 0
+  index: -1

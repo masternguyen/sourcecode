@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ef51ee8c-c9a8-4c6d-b088-2b71e8ca5307",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 481,
+  "height": 175,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_duaxe": {
+      "ver": "1.0.4",
+      "uuid": "c58f30ae-bd05-4db8-b7c1-05f1f093e688",
+      "rawTextureUuid": "ef51ee8c-c9a8-4c6d-b088-2b71e8ca5307",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 481,
+      "height": 175,
+      "rawWidth": 481,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

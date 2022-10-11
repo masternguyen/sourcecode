@@ -1,0 +1,90 @@
+
+anim_fast.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardo
+  rotate: false
+  xy: 396, 55
+  size: 257, 109
+  orig: 257, 109
+  offset: 0, 0
+  index: -1
+carvang2
+  rotate: true
+  xy: 737, 337
+  size: 250, 108
+  orig: 250, 108
+  offset: 0, 0
+  index: -1
+carxanh
+  rotate: false
+  xy: 396, 166
+  size: 317, 108
+  orig: 317, 108
+  offset: 0, 0
+  index: -1
+ef10
+  rotate: false
+  xy: 737, 589
+  size: 248, 177
+  orig: 248, 177
+  offset: 0, 0
+  index: -1
+ef11
+  rotate: false
+  xy: 2, 24
+  size: 392, 250
+  orig: 392, 250
+  offset: 0, 0
+  index: -1
+ef8
+  rotate: true
+  xy: 737, 256
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+ef9
+  rotate: false
+  xy: 655, 10
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 276
+  size: 733, 732
+  orig: 733, 732
+  offset: 0, 0
+  index: -1
+nutxoay
+  rotate: false
+  xy: 737, 768
+  size: 249, 240
+  orig: 249, 240
+  offset: 0, 0
+  index: -1
+textbounus
+  rotate: true
+  xy: 908, 396
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+textjackpot
+  rotate: true
+  xy: 847, 322
+  size: 265, 59
+  orig: 265, 59
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 396, 2
+  size: 142, 51
+  orig: 142, 51
+  offset: 0, 0
+  index: -1

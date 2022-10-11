@@ -1,0 +1,40 @@
+Anim_BossXuatHien.png
+size: 915,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Black
+  rotate: false
+  xy: 2, 141
+  size: 832, 116
+  orig: 832, 116
+  offset: 0, 0
+  index: -1
+BOSS
+  rotate: true
+  xy: 836, 11
+  size: 246, 77
+  orig: 246, 77
+  offset: 0, 0
+  index: -1
+Lght_Tren
+  rotate: false
+  xy: 2, 92
+  size: 770, 47
+  orig: 770, 47
+  offset: 0, 0
+  index: -1
+LightYellow_Tren
+  rotate: false
+  xy: 2, 61
+  size: 430, 29
+  orig: 430, 29
+  offset: 0, 0
+  index: -1
+XUẤT HIỆN
+  rotate: false
+  xy: 434, 2
+  size: 341, 88
+  orig: 341, 88
+  offset: 0, 0
+  index: -1

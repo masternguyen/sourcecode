@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "db93e721-1f14-4963-a255-d4d47c9ed37a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 166,
+  "height": 58,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_vimomo": {
+      "ver": "1.0.4",
+      "uuid": "fb12e353-35dc-4ff6-8436-261b8c9b2bad",
+      "rawTextureUuid": "db93e721-1f14-4963-a255-d4d47c9ed37a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 166,
+      "height": 58,
+      "rawWidth": 166,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

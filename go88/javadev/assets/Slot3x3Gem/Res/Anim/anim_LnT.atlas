@@ -1,0 +1,55 @@
+
+anim_LnT.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icDiamond2
+  rotate: false
+  xy: 67, 149
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+icDiamond5
+  rotate: false
+  xy: 142, 192
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+icDiamond4
+  rotate: false
+  xy: 150, 1
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+icDiamond3
+  rotate: false
+  xy: 150, 98
+  size: 72, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+icDiamond1
+  rotate: false
+  xy: 1, 149
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+icDiamondWild
+  rotate: false
+  xy: 1, 1
+  size: 122, 90
+  orig: 122, 91
+  offset: 0, 1
+  index: -1
+WILD
+  rotate: false
+  xy: 1, 93
+  size: 147, 54
+  orig: 147, 54
+  offset: 0, 0
+  index: -1

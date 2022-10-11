@@ -1,0 +1,166 @@
+
+angrybirds_freespin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_DOT
+  rotate: true
+  xy: 744, 334
+  size: 307, 270
+  orig: 307, 270
+  offset: 0, 0
+  index: -1
+EFFECT_RAY
+  rotate: false
+  xy: 504, 643
+  size: 485, 372
+  orig: 485, 372
+  offset: 0, 0
+  index: -1
+EGGS SPIN
+  rotate: false
+  xy: 2, 901
+  size: 500, 114
+  orig: 500, 114
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_CRACK
+  rotate: true
+  xy: 991, 836
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_CRACK-2
+  rotate: true
+  xy: 991, 908
+  size: 107, 26
+  orig: 107, 26
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG
+  rotate: true
+  xy: 99, 3
+  size: 112, 137
+  orig: 112, 137
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG-L
+  rotate: true
+  xy: 2, 2
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG-U
+  rotate: true
+  xy: 526, 537
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_NEST-B
+  rotate: true
+  xy: 238, 3
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_NEST-F
+  rotate: true
+  xy: 466, 494
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+free
+  rotate: false
+  xy: 287, 10
+  size: 267, 105
+  orig: 267, 105
+  offset: 0, 0
+  index: -1
+trumbet
+  rotate: false
+  xy: 2, 438
+  size: 462, 461
+  orig: 462, 461
+  offset: 0, 0
+  index: -1
+win/1
+  rotate: true
+  xy: 2, 117
+  size: 319, 246
+  orig: 319, 246
+  offset: 0, 0
+  index: -1
+win/2
+  rotate: true
+  xy: 497, 173
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/3
+  rotate: true
+  xy: 744, 13
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/9
+  rotate: true
+  xy: 250, 117
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+
+angrybirds_freespin2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win/10
+  rotate: false
+  xy: 644, 249
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/4
+  rotate: false
+  xy: 644, 5
+  size: 319, 242
+  orig: 319, 242
+  offset: 0, 0
+  index: -1
+win/5
+  rotate: false
+  xy: 2, 249
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/6
+  rotate: false
+  xy: 2, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/7
+  rotate: false
+  xy: 323, 249
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1
+win/8
+  rotate: false
+  xy: 323, 2
+  size: 319, 245
+  orig: 319, 245
+  offset: 0, 0
+  index: -1

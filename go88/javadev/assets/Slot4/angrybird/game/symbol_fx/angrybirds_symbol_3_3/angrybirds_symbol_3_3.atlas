@@ -1,0 +1,55 @@
+
+angrybirds_symbol_3_3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TERRENCE-1
+  rotate: false
+  xy: 2, 254
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+TERRENCE-2
+  rotate: false
+  xy: 2, 2
+  size: 241, 250
+  orig: 241, 250
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_01
+  rotate: true
+  xy: 830, 323
+  size: 181, 188
+  orig: 181, 188
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_02
+  rotate: false
+  xy: 448, 322
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_03
+  rotate: false
+  xy: 639, 322
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_04
+  rotate: false
+  xy: 245, 104
+  size: 183, 190
+  orig: 183, 190
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_05
+  rotate: false
+  xy: 245, 296
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1

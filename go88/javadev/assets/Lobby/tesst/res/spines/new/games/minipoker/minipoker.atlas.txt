@@ -1,0 +1,41 @@
+
+minipoker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 2, 48
+  size: 223, 186
+  orig: 223, 186
+  offset: 0, 0
+  index: -1
+4_add
+  rotate: false
+  xy: 441, 192
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+4_item
+  rotate: false
+  xy: 227, 113
+  size: 212, 121
+  orig: 212, 121
+  offset: 0, 0
+  index: -1
+4_mini
+  rotate: false
+  xy: 227, 53
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+4_poker
+  rotate: false
+  xy: 2, 2
+  size: 144, 44
+  orig: 144, 44
+  offset: 0, 0
+  index: -1

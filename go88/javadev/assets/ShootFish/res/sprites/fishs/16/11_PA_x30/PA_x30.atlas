@@ -1,0 +1,47 @@
+PA_x30.png
+size: 174,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame
+  rotate: true
+  xy: 124, 32
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: true
+  xy: 141, 54
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+flame_smoke1
+  rotate: true
+  xy: 165, 106
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+flame_smoke2
+  rotate: true
+  xy: 124, 7
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 124, 88
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+x30
+  rotate: false
+  xy: 2, 2
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1

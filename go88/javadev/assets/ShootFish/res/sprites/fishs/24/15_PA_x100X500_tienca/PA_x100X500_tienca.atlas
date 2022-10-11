@@ -1,0 +1,75 @@
+PA_x100X500_tienca.png
+size: 643,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_Light
+  rotate: false
+  xy: 442, 22
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+CanhQuatXoay
+  rotate: false
+  xy: 413, 17
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Car_Radar
+  rotate: false
+  xy: 347, 10
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+LightTrangTri
+  rotate: true
+  xy: 459, 31
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Light_Run
+  rotate: false
+  xy: 347, 2
+  size: 30, 6
+  orig: 30, 6
+  offset: 0, 0
+  index: -1
+Radar
+  rotate: false
+  xy: 413, 12
+  size: 25, 3
+  orig: 25, 3
+  offset: 0, 0
+  index: -1
+flame
+  rotate: false
+  xy: 484, 31
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: true
+  xy: 508, 30
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+x100
+  rotate: false
+  xy: 347, 45
+  size: 294, 171
+  orig: 294, 171
+  offset: 0, 0
+  index: -1
+x100_bong
+  rotate: false
+  xy: 2, 2
+  size: 343, 214
+  orig: 343, 214
+  offset: 0, 0
+  index: -1

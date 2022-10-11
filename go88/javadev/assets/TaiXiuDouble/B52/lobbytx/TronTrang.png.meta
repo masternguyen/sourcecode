@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "903d8bce-3dcd-4b8a-9dd1-ab7cee968c22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 26,
+  "height": 26,
+  "platformSettings": {},
+  "subMetas": {
+    "TronTrang": {
+      "ver": "1.0.4",
+      "uuid": "709008db-64dc-48cb-98ca-1c61a8d5c2b3",
+      "rawTextureUuid": "903d8bce-3dcd-4b8a-9dd1-ab7cee968c22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 26,
+      "height": 26,
+      "rawWidth": 26,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

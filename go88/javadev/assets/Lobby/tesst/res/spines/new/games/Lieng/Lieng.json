@@ -1,0 +1,1 @@
+{"skeleton":{"width":213,"height":222,"spine":"3.6.0","hash":" ","name":"armatureName"},"bones":[{"name":"root"}],"slots":[{"name":"bgo","bone":"root","attachment":"bgo"}],"skins":{"default":{"bgo":{"bgo":{"name":"bgo","width":213,"height":221,"scaleX":1.4413,"scaleY":1.3288,"path":"liengg"}}}}}

@@ -1,0 +1,41 @@
+
+banca.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21_BG
+  rotate: true
+  xy: 2, 2
+  size: 223, 389
+  orig: 223, 389
+  offset: 0, 0
+  index: -1
+21_banca
+  rotate: false
+  xy: 651, 30
+  size: 187, 88
+  orig: 187, 88
+  offset: 0, 0
+  index: -1
+21_ca
+  rotate: true
+  xy: 393, 62
+  size: 163, 256
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+21_nuoc
+  rotate: true
+  xy: 891, 39
+  size: 186, 88
+  orig: 186, 88
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: false
+  xy: 651, 120
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

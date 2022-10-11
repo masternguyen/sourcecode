@@ -1,0 +1,62 @@
+
+icon_larva.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1d
+  rotate: false
+  xy: 1, 1
+  size: 234, 384
+  orig: 234, 384
+  offset: 0, 0
+  index: -1
+lavangroi
+  rotate: false
+  xy: 237, 235
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+xucxich1
+  rotate: false
+  xy: 329, 399
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+sau1
+  rotate: false
+  xy: 237, 1
+  size: 154, 232
+  orig: 154, 232
+  offset: 0, 0
+  index: -1
+sau2
+  rotate: false
+  xy: 393, 1
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+xucxich2
+  rotate: false
+  xy: 393, 142
+  size: 96, 75
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+txt_larva
+  rotate: false
+  xy: 142, 399
+  size: 185, 59
+  orig: 185, 59
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: false
+  xy: 1, 387
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1

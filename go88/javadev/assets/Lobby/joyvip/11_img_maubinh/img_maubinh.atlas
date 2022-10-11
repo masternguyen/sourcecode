@@ -1,0 +1,76 @@
+
+img_maubinh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_maubinh
+  rotate: false
+  xy: 1, 233
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+superlight3
+  rotate: false
+  xy: 1, 1
+  size: 220, 230
+  orig: 240, 240
+  offset: 12, 3
+  index: -1
+img_10
+  rotate: false
+  xy: 382, 347
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+img_J
+  rotate: false
+  xy: 223, 1
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+img_Q
+  rotate: false
+  xy: 223, 98
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+img_K
+  rotate: false
+  xy: 209, 334
+  size: 93, 102
+  orig: 93, 102
+  offset: 0, 0
+  index: -1
+img_At
+  rotate: false
+  xy: 350, 233
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+img_hoahong
+  rotate: false
+  xy: 382, 444
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+txt_maubinh
+  rotate: false
+  xy: 209, 438
+  size: 171, 51
+  orig: 171, 51
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: false
+  xy: 209, 233
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1

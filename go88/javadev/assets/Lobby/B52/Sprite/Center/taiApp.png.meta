@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f0a3f150-384f-4091-b531-f369e5e5af98",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "taiApp": {
+      "ver": "1.0.4",
+      "uuid": "8d04f763-754d-49cb-9558-a037fbe36fc0",
+      "rawTextureUuid": "f0a3f150-384f-4091-b531-f369e5e5af98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 380,
+      "height": 104,
+      "rawWidth": 380,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

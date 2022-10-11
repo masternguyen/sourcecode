@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b403d66e-b271-4c23-a1bd-1d181aa082f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Agrybird": {
+      "ver": "1.0.4",
+      "uuid": "009eb56f-1636-4563-9550-13b7df7b070a",
+      "rawTextureUuid": "b403d66e-b271-4c23-a1bd-1d181aa082f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 73,
+      "offsetY": 47,
+      "trimX": 298,
+      "trimY": 2,
+      "width": 574,
+      "height": 414,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

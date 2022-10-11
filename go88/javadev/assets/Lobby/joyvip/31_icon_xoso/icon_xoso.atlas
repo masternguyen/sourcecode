@@ -1,0 +1,41 @@
+
+icon_xoso.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_xoso
+  rotate: false
+  xy: 2, 2
+  size: 206, 212
+  orig: 206, 212
+  offset: 0, 0
+  index: -1
+qualam
+  rotate: false
+  xy: 210, 29
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+quanvang
+  rotate: false
+  xy: 281, 103
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+quatim
+  rotate: false
+  xy: 210, 95
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+txt_xoso
+  rotate: false
+  xy: 210, 167
+  size: 149, 47
+  orig: 149, 47
+  offset: 0, 0
+  index: -1

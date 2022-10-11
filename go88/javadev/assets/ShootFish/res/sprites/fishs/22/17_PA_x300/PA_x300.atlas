@@ -1,0 +1,166 @@
+PA_x300.png
+size: 993,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body2
+  rotate: false
+  xy: 2, 167
+  size: 239, 266
+  orig: 239, 266
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 461, 224
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 01
+  rotate: false
+  xy: 717, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 02
+  rotate: false
+  xy: 905, 197
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 03
+  rotate: false
+  xy: 908, 112
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 04
+  rotate: false
+  xy: 807, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 05
+  rotate: false
+  xy: 814, 95
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 06
+  rotate: false
+  xy: 619, 91
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 07
+  rotate: false
+  xy: 520, 113
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 08
+  rotate: false
+  xy: 411, 54
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 09
+  rotate: false
+  xy: 2, 17
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 10
+  rotate: false
+  xy: 672, 285
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 11
+  rotate: false
+  xy: 822, 285
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 12
+  rotate: false
+  xy: 152, 13
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 13
+  rotate: false
+  xy: 520, 14
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+Explosion/Explosion 14
+  rotate: false
+  xy: 717, 92
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 243, 212
+  size: 216, 221
+  orig: 216, 221
+  offset: 0, 0
+  index: -1
+body_toi
+  rotate: false
+  xy: 897, 4
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 672, 230
+  size: 53, 231
+  orig: 53, 231
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 243, 163
+  size: 47, 231
+  orig: 47, 231
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 672, 189
+  size: 39, 231
+  orig: 39, 231
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 461, 212
+  size: 10, 203
+  orig: 10, 203
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 302, 45
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+angrybirds_symbol_1_6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_DOT
+  rotate: false
+  xy: 2, 224
+  size: 296, 273
+  orig: 296, 273
+  offset: 0, 0
+  index: -1
+EFFECT_RAY
+  rotate: false
+  xy: 917, 249
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+EGGS-SPIN
+  rotate: false
+  xy: 300, 269
+  size: 156, 36
+  orig: 156, 36
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_CRACK
+  rotate: true
+  xy: 815, 210
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_CRACK-2
+  rotate: true
+  xy: 532, 68
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG
+  rotate: true
+  xy: 675, 180
+  size: 133, 138
+  orig: 133, 138
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG-L
+  rotate: true
+  xy: 388, 120
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_EGG-U
+  rotate: false
+  xy: 532, 177
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_NEST-B
+  rotate: false
+  xy: 388, 2
+  size: 121, 116
+  orig: 121, 116
+  offset: 0, 0
+  index: -1
+EGGS-SPIN_NEST-F
+  rotate: false
+  xy: 867, 339
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_01
+  rotate: false
+  xy: 205, 34
+  size: 181, 188
+  orig: 181, 188
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_02
+  rotate: false
+  xy: 485, 315
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_03
+  rotate: false
+  xy: 676, 315
+  size: 189, 182
+  orig: 189, 182
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_04
+  rotate: false
+  xy: 300, 307
+  size: 183, 190
+  orig: 183, 190
+  offset: 0, 0
+  index: -1
+bubble_pop_frame_05
+  rotate: false
+  xy: 2, 14
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1

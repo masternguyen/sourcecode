@@ -1,0 +1,41 @@
+
+xteen.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+19_BG
+  rotate: false
+  xy: 264, 95
+  size: 223, 389
+  orig: 223, 389
+  offset: 0, 0
+  index: -1
+19_hand
+  rotate: false
+  xy: 489, 295
+  size: 144, 82
+  orig: 144, 82
+  offset: 0, 0
+  index: -1
+19_nv
+  rotate: false
+  xy: 2, 2
+  size: 260, 482
+  orig: 260, 482
+  offset: 0, 0
+  index: -1
+19_xteen
+  rotate: false
+  xy: 264, 18
+  size: 205, 75
+  orig: 205, 75
+  offset: 0, 0
+  index: -1
+frame_hu
+  rotate: false
+  xy: 489, 379
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1

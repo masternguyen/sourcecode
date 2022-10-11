@@ -1,0 +1,34 @@
+
+anim_fast.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chonphong
+  rotate: false
+  xy: 2, 678
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+do
+  rotate: false
+  xy: 2, 2
+  size: 551, 347
+  orig: 551, 347
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 2, 351
+  size: 575, 325
+  orig: 575, 325
+  offset: 0, 0
+  index: -1
+xanh
+  rotate: false
+  xy: 579, 398
+  size: 587, 278
+  orig: 587, 278
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+ic_sieuxe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duaxebg
+  rotate: false
+  xy: 1, 1
+  size: 289, 436
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 292, 311
+  size: 349, 188
+  orig: 349, 188
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 643, 311
+  size: 359, 172
+  orig: 359, 172
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 292, 1
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 602, 62
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 867, 1
+  size: 88, 129
+  orig: 88, 129
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 676, 62
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 780, 62
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 780, 123
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+text2
+  rotate: false
+  xy: 1, 439
+  size: 285, 61
+  orig: 285, 61
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 602, 1
+  size: 263, 59
+  orig: 263, 59
+  offset: 0, 0
+  index: -1

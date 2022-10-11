@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 982,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AB2_Bomb
+  rotate: false
+  xy: 468, 79
+  size: 168, 227
+  orig: 168, 227
+  offset: 0, 0
+  index: -1
+AB2_Chuck
+  rotate: true
+  xy: 817, 48
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+Ab2-red
+  rotate: false
+  xy: 638, 22
+  size: 177, 204
+  orig: 177, 204
+  offset: 0, 0
+  index: -1
+Group 10
+  rotate: false
+  xy: 638, 228
+  size: 342, 78
+  orig: 342, 78
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: true
+  xy: 2, 12
+  size: 294, 464
+  orig: 294, 464
+  offset: 0, 0
+  index: -1
+eggs
+  rotate: false
+  xy: 508, 19
+  size: 126, 58
+  orig: 126, 58
+  offset: 0, 0
+  index: -1
+find
+  rotate: false
+  xy: 817, 8
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+the
+  rotate: true
+  xy: 468, 2
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1

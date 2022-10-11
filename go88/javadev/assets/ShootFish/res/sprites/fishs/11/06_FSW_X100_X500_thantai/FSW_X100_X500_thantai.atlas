@@ -1,0 +1,75 @@
+FSW_X100_X500_thantai.png
+size: 216,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CanhQuat
+  rotate: false
+  xy: 160, 39
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Dongco
+  rotate: true
+  xy: 53, 9
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+EffDuoi
+  rotate: false
+  xy: 122, 17
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+Fan2
+  rotate: false
+  xy: 160, 83
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+LightTrangTri
+  rotate: true
+  xy: 2, 17
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+MuiTen
+  rotate: false
+  xy: 2, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+MuiTenLight
+  rotate: false
+  xy: 23, 3
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+ThanTai
+  rotate: true
+  xy: 2, 44
+  size: 93, 156
+  orig: 93, 156
+  offset: 0, 0
+  index: -1
+TrenDongCo
+  rotate: false
+  xy: 91, 12
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 136, 25
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
